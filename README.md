@@ -2,6 +2,8 @@
 
 WhiteScout é um **crawler de endpoints web** desenvolvido em Go, focado em coletar URLs interessantes de um site alvo. Ele suporta diferentes níveis de filtragem e profundidade, e pode validar se os endpoints estão ativos.
 
+
+
 ## Funcionalidades
 
 - Coleta endpoints de páginas web e arquivos JS/HTML.
