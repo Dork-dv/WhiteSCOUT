@@ -31,3 +31,4 @@ WhiteScout é um **crawler de endpoints web** desenvolvido em Go, focado em cole
 ```bash
 git clone https://github.com/seuusuario/WhiteScout.git
 cd WhiteScout
+./WhiteScout
